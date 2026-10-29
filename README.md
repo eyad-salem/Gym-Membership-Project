@@ -30,5 +30,5 @@ git clone https://github.com/eyad-salem/Gym-Membership-Project.git
 
 3. Compile and Run
 - Open the source file (`Gym-Membership`) in your chosen IDE or compile it via terminal:
-  g++ "Gym_Membership_Project_Team32.cpp" -o gym_app
+  g++ "Gym-Membership" -o gym_app
 - Execute the compiled program to interact with the console menu.
