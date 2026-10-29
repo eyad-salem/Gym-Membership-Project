@@ -1,4 +1,4 @@
-Gym Membership Tracker
+## Gym Membership Tracker
 
 A console-based C++ application designed to manage gym operations, member registrations, subscriptions, trainer assignments, and BMI tracking with file persistence.
 
